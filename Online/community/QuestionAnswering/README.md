@@ -12,7 +12,7 @@
 
 开发板：香橙派Aipro或其他同硬件开发板  
 开发板镜像: Ubuntu镜像  
-`CANN Toolkit/Kernels：8.0.0.beta1`  
+`CANN Toolkit/Kernels：8.1RC1`  
 `MindSpore: 2.6.0`  
 `MindSpore NLP: 0.4.1`  
 `Python: 3.9`
